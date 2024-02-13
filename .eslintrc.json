@@ -13,6 +13,8 @@
         "quotes": [
             "error",
             "double"
-        ]
+        ],
+        "linebreak-style": "off",
+
     }
 }

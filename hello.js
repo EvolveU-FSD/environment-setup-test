@@ -1,1 +1,1 @@
-console.log("hello, Cohort 12")
+console.log("hello, Cohort 12");
